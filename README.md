@@ -8,6 +8,18 @@ A Java web application with a user registration page, built as a Maven multi-mod
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
+<p>
+  <img alt="Last commit" src="https://img.shields.io/github/last-commit/RajGenStack/register?style=flat-square&labelColor=0d1117&color=ff6b35">
+  <img alt="Top language" src="https://img.shields.io/github/languages/top/RajGenStack/register?style=flat-square&labelColor=0d1117&color=8b949e">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/RajGenStack/register?style=flat-square&labelColor=0d1117&color=8b949e">
+</p>
+
+## What this demonstrates
+
+- A multi-module Maven build, where a library and a web application are versioned together
+- A pipeline that checks out, builds and tests on a dedicated agent
+- Running the resulting WAR on Tomcat in a container
+
 ## Modules
 
 | Module | Contents |
